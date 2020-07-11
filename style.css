@@ -1,10 +1,11 @@
-body, html {
+body,
+html {
   background: #303030;
   overflow: hidden;
   margin: 0;
   padding: 0;
   text-align: center;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 100;
   cursor: default;
   -webkit-user-select: none;
@@ -14,12 +15,12 @@ body, html {
 
 .construction-message {
   position: absolute;
-  top: 25%;
+  top: 30%;
   width: 100%;
 }
 
 h1 {
-  color: #E43;
+  color: #e43;
   font-weight: 100;
   font-size: 3em;
 }
@@ -32,13 +33,13 @@ h2 {
 
 a {
   font-weight: 300;
-  color: #E43;
+  color: #e43;
   text-decoration: none;
   font-size: 1.5em;
 }
 
 span {
-  color: #E43;
+  color: #e43;
 }
 
 .footer {
